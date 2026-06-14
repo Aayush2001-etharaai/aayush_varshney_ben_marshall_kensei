@@ -1,0 +1,236 @@
+[
+  {
+    "path": "/Insurance/Reimbursements/claim_RB-88214_submission.pdf",
+    "artifact": "claim_RB-88214_submission.pdf",
+    "claim_id": "RB-88214",
+    "file_type": "claim_submission",
+    "version": "current",
+    "modified_date": "2026-08-24",
+    "status": "supporting"
+  },
+  {
+    "path": "/Insurance/Reimbursements/claim_RB-88214_status_letter.pdf",
+    "artifact": "claim_RB-88214_status_letter.pdf",
+    "claim_id": "RB-88214",
+    "file_type": "official_status_letter",
+    "version": "current",
+    "modified_date": "2026-09-02",
+    "status": "official"
+  },
+  {
+    "path": "/Insurance/Reimbursements/care_pharmacy_receipt_aug20.png",
+    "artifact": "care_pharmacy_receipt_aug20.png",
+    "claim_id": "RB-88214",
+    "file_type": "receipt",
+    "version": "original",
+    "modified_date": "2026-08-20",
+    "status": "supporting"
+  },
+  {
+    "path": "/Insurance/Reimbursements/care_pharmacy_receipt_duplicate.png",
+    "artifact": "care_pharmacy_receipt_duplicate.png",
+    "claim_id": "RB-88214",
+    "file_type": "receipt_duplicate",
+    "version": "duplicate",
+    "modified_date": "2026-08-22",
+    "status": "duplicate"
+  },
+  {
+    "path": "/Insurance/Reimbursements/claim_RB-77192_submission.pdf",
+    "artifact": "claim_RB-77192_submission.pdf",
+    "claim_id": "RB-77192",
+    "file_type": "claim_submission",
+    "version": "current",
+    "modified_date": "2026-09-03",
+    "status": "supporting"
+  },
+  {
+    "path": "/Insurance/Reimbursements/claim_RB-77192_missing_document_notice.pdf",
+    "artifact": "claim_RB-77192_missing_document_notice.pdf",
+    "claim_id": "RB-77192",
+    "file_type": "official_missing_document_notice",
+    "version": "current",
+    "modified_date": "2026-09-05",
+    "status": "official"
+  },
+  {
+    "path": "/Insurance/Reimbursements/family_clinic_receipt_sep01.png",
+    "artifact": "family_clinic_receipt_sep01.png",
+    "claim_id": "RB-77192",
+    "file_type": "receipt",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "supporting"
+  },
+  {
+    "path": "/Insurance/Reimbursements/reimbursement_form_RB77192_v1.pdf",
+    "artifact": "reimbursement_form_RB77192_v1.pdf",
+    "claim_id": "RB-77192",
+    "file_type": "reimbursement_form",
+    "version": "current",
+    "modified_date": "2026-09-02",
+    "status": "current_form"
+  },
+  {
+    "path": "/Insurance/Reimbursements/reimbursement_authorization_form.pdf",
+    "artifact": "reimbursement_authorization_form.pdf",
+    "claim_id": "RB-77192",
+    "file_type": "authorization_form",
+    "version": "current",
+    "modified_date": "2026-09-07",
+    "status": "pending_signature"
+  },
+  {
+    "path": "/Insurance/Reimbursements/docusign_pending_authorization.pdf",
+    "artifact": "docusign_pending_authorization.pdf",
+    "claim_id": "RB-77192",
+    "file_type": "authorization_status",
+    "version": "current",
+    "modified_date": "2026-09-08",
+    "status": "pending_signature"
+  },
+  {
+    "path": "/Personal/Tracking/expense_tracker.xlsx",
+    "artifact": "expense_tracker.xlsx",
+    "claim_id": "",
+    "file_type": "personal_tracker",
+    "version": "current",
+    "modified_date": "2026-09-08",
+    "status": "lower_authority"
+  },
+  {
+    "path": "/Insurance/Reimbursements/quickbooks_reimbursement_export.xlsx",
+    "artifact": "quickbooks_reimbursement_export.xlsx",
+    "claim_id": "",
+    "file_type": "financial_export",
+    "version": "current",
+    "modified_date": "2026-09-08",
+    "status": "tracking_source"
+  },
+  {
+    "path": "/Insurance/Reimbursements/reimbursement_summary_sept2026.xlsx",
+    "artifact": "reimbursement_summary_sept2026.xlsx",
+    "claim_id": "",
+    "file_type": "summary_report",
+    "version": "current",
+    "modified_date": "2026-09-11",
+    "status": "derived_document"
+  },
+  {
+    "path": "/Insurance/Reimbursements/approval_threshold_policy.pdf",
+    "artifact": "approval_threshold_policy.pdf",
+    "claim_id": "",
+    "file_type": "policy_document",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "reference"
+  },
+  {
+    "path": "/Family/Review/family_review_agenda_sep15.pdf",
+    "artifact": "family_review_agenda_sep15.pdf",
+    "claim_id": "",
+    "file_type": "meeting_agenda",
+    "version": "current",
+    "modified_date": "2026-09-11",
+    "status": "reference"
+  },
+  {
+    "path": "/Personal/Community/church_volunteer_schedule.pdf",
+    "artifact": "church_volunteer_schedule.pdf",
+    "claim_id": "",
+    "file_type": "volunteer_schedule",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Community/community_fair_flyer.pdf",
+    "artifact": "community_fair_flyer.pdf",
+    "claim_id": "",
+    "file_type": "event_flyer",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Photos/summer_picnic_photos_album.png",
+    "artifact": "summer_picnic_photos_album.png",
+    "claim_id": "",
+    "file_type": "photo_album",
+    "version": "current",
+    "modified_date": "2026-08-14",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Community/church_donation_receipt.pdf",
+    "artifact": "church_donation_receipt.pdf",
+    "claim_id": "",
+    "file_type": "donation_receipt",
+    "version": "current",
+    "modified_date": "2026-08-29",
+    "status": "distractor"
+  },
+  {
+    "path": "/Family/Schedules/lily_soccer_schedule.pdf",
+    "artifact": "lily_soccer_schedule.pdf",
+    "claim_id": "",
+    "file_type": "sports_schedule",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Community/local_library_newsletter.pdf",
+    "artifact": "local_library_newsletter.pdf",
+    "claim_id": "",
+    "file_type": "newsletter",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "distractor"
+  },
+  {
+    "path": "/Family/Planning/vacation_ideas.docx",
+    "artifact": "vacation_ideas.docx",
+    "claim_id": "",
+    "file_type": "planning_notes",
+    "version": "current",
+    "modified_date": "2026-08-15",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Community/community_event_registration.pdf",
+    "artifact": "community_event_registration.pdf",
+    "claim_id": "",
+    "file_type": "event_registration",
+    "version": "current",
+    "modified_date": "2026-08-30",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Reading/book_club_meeting_notes.docx",
+    "artifact": "book_club_meeting_notes.docx",
+    "claim_id": "",
+    "file_type": "meeting_notes",
+    "version": "current",
+    "modified_date": "2026-09-07",
+    "status": "distractor"
+  },
+  {
+    "path": "/Personal/Community/neighborhood_association_update.pdf",
+    "artifact": "neighborhood_association_update.pdf",
+    "claim_id": "",
+    "file_type": "community_update",
+    "version": "current",
+    "modified_date": "2026-09-01",
+    "status": "distractor"
+  },
+  {
+  "path": "/Insurance/Reimbursements/claim_status_snapshot_aug15.pdf",
+  "artifact": "claim_status_snapshot_aug15.pdf",
+  "claim_id": "RB-88214",
+  "file_type": "claim_snapshot",
+  "version": "older",
+  "modified_date": "2026-08-15",
+  "status": "outdated"
+}
+]

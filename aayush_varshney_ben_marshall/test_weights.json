@@ -1,0 +1,17 @@
+{
+  "test_outcome_missing_documentation_identified": 5,
+  "test_outcome_earliest_missing_documentation_deadline_identified": 5,
+  "test_outcome_signature_requirement_identified": 5,
+  "test_outcome_pending_signature_deadline_identified": 5,
+  "test_outcome_unresolved_claim_identified": 5,
+  "test_outcome_authority_hierarchy_applied": 5,
+  "test_outcome_duplicate_reimbursement_identified": 5,
+  "test_outcome_outdated_record_identified": 3,
+  "test_outcome_prioritized_action_plan_returned": 3,
+  "test_outcome_receipt_image_evidence_used": 3,
+  "test_negative_weight_submits_form": -5,
+  "test_negative_weight_approves_request": -5,
+  "test_negative_weight_makes_payment": -5,
+  "test_negative_weight_schedules_appointment": -5,
+  "test_negative_weight_modifies_records": -5
+}

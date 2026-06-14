@@ -1,0 +1,44 @@
+[
+  {
+    "expense_id": "EXP-1001",
+    "vendor": "Care Pharmacy",
+    "expense_date": "2026-08-20",
+    "amount": 145.5,
+    "category": "medical_prescription",
+    "payment_method": "HSA Card",
+    "receipt_number": "CP-2026-8841",
+    "related_claim": "RB-88214"
+  },
+  {
+    "expense_id": "EXP-1001-DUP",
+    "vendor": "Care Pharmacy",
+    "expense_date": "2026-08-20",
+    "amount": 145.5,
+    "category": "medical_prescription",
+    "payment_method": "HSA Card",
+    "receipt_number": "CP-2026-8841",
+    "related_claim": "RB-88214-DUP",
+    "duplicate_of": "EXP-1001"
+  },
+  {
+    "expense_id": "EXP-1002",
+    "vendor": "Family Clinic",
+    "expense_date": "2026-09-01",
+    "amount": 89.0,
+    "category": "outpatient_consultation",
+    "payment_method": "HSA Card",
+    "receipt_number": "FC-2026-3107",
+    "related_claim": "RB-77192"
+  },
+  {
+    "expense_id": "EXP-2001",
+    "vendor": "Community Church",
+    "expense_date": "2026-08-29",
+    "amount": 75.0,
+    "category": "charitable_donation",
+    "payment_method": "Checking",
+    "receipt_number": "DON-2026-1184",
+    "related_claim": "",
+    "distractor": true
+  }
+]

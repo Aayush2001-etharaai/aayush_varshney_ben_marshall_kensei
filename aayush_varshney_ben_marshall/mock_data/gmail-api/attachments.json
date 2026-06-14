@@ -1,0 +1,22 @@
+[
+  {
+    "message_id": "msg-001",
+    "filename": "email_claim_approved.msg",
+    "linked_artifact": "email_claim_approved.msg"
+  },
+  {
+    "message_id": "msg-002",
+    "filename": "email_missing_receipt.msg",
+    "linked_artifact": "email_missing_receipt.msg"
+  },
+  {
+    "message_id": "msg-003",
+    "filename": "insurance_followup_request.msg",
+    "linked_artifact": "insurance_followup_request.msg"
+  },
+  {
+    "message_id": "msg-004",
+    "filename": "insurance_deadline_reminder.msg",
+    "linked_artifact": "insurance_deadline_reminder.msg"
+  }
+]

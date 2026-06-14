@@ -1,0 +1,16 @@
+[
+  {
+    "event_id": "evt-001",
+    "title": "Annual Community Fair",
+    "date": "2026-09-19",
+    "status": "registered",
+    "relevance": "distractor"
+  },
+  {
+    "event_id": "evt-002",
+    "title": "Neighborhood Gathering",
+    "date": "2026-09-21",
+    "status": "registered",
+    "relevance": "distractor"
+  }
+]

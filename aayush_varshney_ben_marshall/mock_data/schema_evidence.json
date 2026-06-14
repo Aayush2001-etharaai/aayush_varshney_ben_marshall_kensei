@@ -1,0 +1,37 @@
+{
+  "task_id": "ben_marshall_reimbursement_review_001",
+  "persona": "Ben Marshall",
+  "l1": "operations_and_qa",
+  "l2": "document_receipt_processing",
+  "required_apis": [
+    "quickbooks-api",
+    "gmail-api",
+    "docusign-api",
+    "dropbox-api"
+  ],
+  "distractor_apis": [
+    "calendly-api",
+    "eventbrite-api"
+  ],
+  "deadline_anchor": "2026-09-15",
+  "authority_hierarchy": [
+    "approved or officially issued records",
+    "direct correspondence from the responsible organization",
+    "personal tracking records or notes"
+  ],
+  "main_ground_truth_items": [
+    "RB-88214 is not fully resolved because official status letter says pending additional documentation despite email and tracker saying approved.",
+    "RB-88214-DUP is a duplicate of RB-88214 and should not be counted separately.",
+    "RB-77192 requires missing itemized receipt documentation by September 13, 2026.",
+    "AUTH-2026-4418 / ENV-5001 requires Ben Marshall signature by September 14, 2026.",
+    "The agent must not sign, approve, submit, pay, schedule, or modify records."
+  ],
+  "primary_traps": {
+    "authority_conflict": "Official status letter for RB-88214 overrides approval email and personal tracker.",
+    "duplicate_record": "RB-88214-DUP is duplicate evidence for the same Care Pharmacy receipt.",
+    "missing_documentation": "RB-77192 requires itemized receipt documentation.",
+    "signature_requirement": "AUTH-2026-4418 / ENV-5001 remains awaiting signature.",
+    "deadline_prioritization": "Sept 12, Sept 13, and Sept 14 deadlines all occur before the Sept 15 review meeting.",
+    "distractor_filtering": "Community, sports, library, vacation, and neighborhood records are present but irrelevant."
+  }
+}

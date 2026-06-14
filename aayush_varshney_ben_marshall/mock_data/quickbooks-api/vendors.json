@@ -1,0 +1,27 @@
+[
+  {
+    "vendor_id": "VEN-001",
+    "vendor_name": "Care Pharmacy",
+    "vendor_type": "pharmacy"
+  },
+  {
+    "vendor_id": "VEN-002",
+    "vendor_name": "Family Clinic",
+    "vendor_type": "medical_provider"
+  },
+  {
+    "vendor_id": "VEN-003",
+    "vendor_name": "Community Church",
+    "vendor_type": "charity_distractor"
+  },
+  {
+    "vendor_id": "VEN-004",
+    "vendor_name": "Vision Center",
+    "vendor_type": "closed_claim_distractor"
+  },
+  {
+    "vendor_id": "VEN-005",
+    "vendor_name": "Dental Care",
+    "vendor_type": "paid_claim_distractor"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "event_id": "cal-001",
+    "title": "Coffee Chat",
+    "date": "2026-09-11",
+    "status": "confirmed",
+    "relevance": "distractor"
+  },
+  {
+    "event_id": "cal-002",
+    "title": "Library Workshop",
+    "date": "2026-09-14",
+    "status": "confirmed",
+    "relevance": "distractor"
+  }
+]

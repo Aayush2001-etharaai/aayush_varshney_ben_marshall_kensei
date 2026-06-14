@@ -1,0 +1,63 @@
+[
+  {
+    "claim_id": "RB-88214",
+    "expense_id": "EXP-1001",
+    "vendor": "Care Pharmacy",
+    "service_date": "2026-08-20",
+    "submitted_date": "2026-08-24",
+    "amount": 145.5,
+    "status": "submitted",
+    "linked_receipt": "care_pharmacy_receipt_aug20.png",
+    "official_status_check_required": true,
+    "notes": "Email and personal tracker indicate approved, but official status letter must be used for final status."
+  },
+  {
+    "claim_id": "RB-88214-DUP",
+    "expense_id": "EXP-1001-DUP",
+    "vendor": "Care Pharmacy",
+    "service_date": "2026-08-20",
+    "submitted_date": "2026-08-22",
+    "amount": 145.5,
+    "status": "submitted",
+    "linked_receipt": "care_pharmacy_receipt_duplicate.png",
+    "duplicate_of": "RB-88214",
+    "duplicate_flag": true,
+    "notes": "Duplicate scan/upload of the same Care Pharmacy receipt. Do not count as a separate reimbursement."
+  },
+  {
+    "claim_id": "RB-77192",
+    "expense_id": "EXP-1002",
+    "vendor": "Family Clinic",
+    "service_date": "2026-09-01",
+    "submitted_date": "2026-09-03",
+    "amount": 89.0,
+    "status": "pending_documentation",
+    "linked_receipt": "family_clinic_receipt_sep01.png",
+    "official_status_check_required": true,
+    "notes": "Official notice and email request itemized receipt documentation by September 13, 2026."
+  },
+  {
+    "claim_id": "RB-30044",
+    "expense_id": "EXP-0995",
+    "vendor": "Vision Center",
+    "service_date": "2026-07-15",
+    "submitted_date": "2026-07-16",
+    "amount": 52.0,
+    "status": "closed",
+    "linked_receipt": "",
+    "duplicate_flag": false,
+    "notes": "Closed before current review window. Distractor row."
+  },
+  {
+    "claim_id": "RB-51008",
+    "expense_id": "EXP-0997",
+    "vendor": "Dental Care",
+    "service_date": "2026-07-30",
+    "submitted_date": "2026-08-01",
+    "amount": 64.0,
+    "status": "paid",
+    "linked_receipt": "",
+    "duplicate_flag": false,
+    "notes": "Already paid. Distractor row."
+  }
+]
